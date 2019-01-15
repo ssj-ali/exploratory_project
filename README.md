@@ -1,5 +1,5 @@
 # exploratory_project
-This is my exploratory project offered in my third semester.
+# note: To run/test the final plugin, load the PluginCsv.dll file in AutoCAD stored in PluginCsv\PluginCsv\bin\Debug  or read the procedure
 INTRODUCTION
 Mining Simulation Softwares:-
 Mining simulation is the computer-based modeling of a real open-pit or underground mining. Mining simulation (Mine Modelling) offers a way
