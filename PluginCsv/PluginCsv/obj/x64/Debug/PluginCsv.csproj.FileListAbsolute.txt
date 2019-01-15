@@ -1,0 +1,8 @@
+C:\Users\DINOCO\source\repos\PluginCsv\PluginCsv\bin\x64\Debug\PluginCsv.dll
+C:\Users\DINOCO\source\repos\PluginCsv\PluginCsv\bin\x64\Debug\PluginCsv.pdb
+C:\Users\DINOCO\source\repos\PluginCsv\PluginCsv\obj\x64\Debug\PluginCsv.Form1.resources
+C:\Users\DINOCO\source\repos\PluginCsv\PluginCsv\obj\x64\Debug\PluginCsv.csproj.GenerateResource.cache
+C:\Users\DINOCO\source\repos\PluginCsv\PluginCsv\obj\x64\Debug\PluginCsv.csproj.CoreCompileInputs.cache
+C:\Users\DINOCO\source\repos\PluginCsv\PluginCsv\obj\x64\Debug\PluginCsv.dll
+C:\Users\DINOCO\source\repos\PluginCsv\PluginCsv\obj\x64\Debug\PluginCsv.pdb
+C:\Users\DINOCO\source\repos\PluginCsv\PluginCsv\obj\x64\Debug\PluginCsv.csprojAssemblyReference.cache
